@@ -1,0 +1,29 @@
+{
+  "name": "Shivam Singh",
+  "email": "drshivam49@gmail.com",
+  "phone": "+918896497776",
+  "phoneDisplay": "+91 88964 97776",
+  "github": "ShivamMathtech",
+  "linkedin": "https://www.linkedin.com/in/er-shivam-singh-6b7061269/",
+  "leetcode": "Shiva_NSG",
+  "location": "India",
+  "projectMilestone": "500+",
+  "headline": "Mathematics at heart. Engineering in motion.",
+  "summary": "I’m a computer science engineer and mathematics graduate working at the intersection of intelligent systems, visual computing, and thoughtful digital experiences. From exploring an equation to shipping a full-stack application, I enjoy making complex ideas tangible.",
+  "achievement": "All India Ranker · IIT JAM 2020",
+  "education": [
+    {"year":"2026", "degree":"B.Tech · Computer Science & Engineering", "institution":"Dev Bhoomi Uttarakhand University, Dehradun", "result":"9.4 CGPA", "note":"From computational foundations to complete software systems."},
+    {"year":"2022", "degree":"B.Sc · Mathematics", "institution":"Bajrang Singh Mahavidyalaya, Mau", "result":"60%", "note":"A foundation in mathematical reasoning and analytical thinking."},
+    {"year":"2019", "degree":"Class XII · Higher Secondary", "institution":"Shri Shiv Nayak Singh Saraswati Vidya Mandir, Gauriganj, Amethi", "result":"79.5%", "note":""},
+    {"year":"2017", "degree":"Class X · Secondary", "institution":"Shri Shiv Nayak Singh Saraswati Vidya Mandir, Gauriganj, Amethi", "result":"82%", "note":""}
+  ],
+  "featured": ["mathverse-x", "infinite-canvas-studio", "MotionMind-Predictive-Human-Motion-Intelligence", "AUREL-Premium-Watch-Shop", "ReactVerse-Academy", "Universal-Vision-Counter"],
+  "projectOverrides": {
+    "mathverse-x":{"title":"MathVerse X", "category":"Mathematics", "art":"math", "summary":"A computational studio for exploring mathematical ideas through interactive 2D and 3D visualization."},
+    "infinite-canvas-studio":{"title":"Infinite Canvas Studio", "category":"Mathematics", "art":"canvas", "summary":"A pen-first workspace for smooth handwriting, smart mathematics, interactive graphs, and offline notebooks."},
+    "MotionMind-Predictive-Human-Motion-Intelligence":{"title":"MotionMind", "category":"AI & Vision", "art":"vision", "summary":"A local-first AI workout assistant with pose estimation, real-time analysis, and a React dashboard."},
+    "AUREL-Premium-Watch-Shop":{"title":"AUREL", "category":"Full Stack", "art":"watch", "summary":"A warm, editorial watch storefront with an Express API, customer accounts, and an admin workspace."},
+    "ReactVerse-Academy":{"title":"ReactVerse Academy", "category":"Full Stack", "art":"code", "summary":"An interactive learning academy with runnable projects, original lessons, exercises, and quizzes."},
+    "Universal-Vision-Counter":{"title":"Universal Vision Counter", "category":"AI & Vision", "art":"counter", "summary":"A CPU-first computer vision workstation with object detection, tracking, and analytics."}
+  }
+}
