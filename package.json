@@ -1,0 +1,15 @@
+{
+  "name": "shivam-singh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Shivam Singh's living portfolio — mathematics, AI and full-stack development.",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "start": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "sync": "node scripts/sync-github.mjs"
+  },
+  "engines": {"node": ">=22"}
+}
