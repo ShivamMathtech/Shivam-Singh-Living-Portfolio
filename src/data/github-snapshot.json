@@ -1,14 +1,32 @@
 {
-  "fetchedAt": "2026-11-12T06:55:05.717Z",
+  "fetchedAt": "2026-11-13T11:06:09.878Z",
   "source": "GitHub API",
   "complete": true,
   "profile": {
     "login": "ShivamMathtech",
-    "public_repos": 497,
+    "public_repos": 498,
     "followers": 503,
     "html_url": "https://github.com/ShivamMathtech"
   },
   "repositories": [
+    {
+      "id": 1454962586,
+      "name": "Shivam-Singh-Living-Portfolio",
+      "full_name": "ShivamMathtech/Shivam-Singh-Living-Portfolio",
+      "html_url": "https://github.com/ShivamMathtech/Shivam-Singh-Living-Portfolio",
+      "description": "A complete, responsive portfolio connecting mathematics, AI, computer vision, and full-stack development. The design combines warm charcoal, electric chartreuse, editorial typography, original project illustrations, and interactive mathematical canvases.",
+      "homepage": "https://shivam-portfolio-007.vercel.app/",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-12T07:25:48Z",
+      "updated_at": "2026-11-12T08:22:40Z",
+      "created_at": "2026-11-12T07:20:35Z",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "private": false
+    },
     {
       "id": 1449424947,
       "name": "mathverse-x",
