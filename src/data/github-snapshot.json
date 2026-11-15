@@ -1,14 +1,32 @@
 {
-  "fetchedAt": "2026-11-14T10:32:29.579Z",
+  "fetchedAt": "2026-11-15T11:00:45.883Z",
   "source": "GitHub API",
   "complete": true,
   "profile": {
     "login": "ShivamMathtech",
-    "public_repos": 498,
-    "followers": 506,
+    "public_repos": 499,
+    "followers": 508,
     "html_url": "https://github.com/ShivamMathtech"
   },
   "repositories": [
+    {
+      "id": 1457705033,
+      "name": "Funica-A-little-more-you.",
+      "full_name": "ShivamMathtech/Funica-A-little-more-you.",
+      "html_url": "https://github.com/ShivamMathtech/Funica-A-little-more-you.",
+      "description": "A complete, responsive **React + TypeScript + Vite furniture storefront demo**, inspired by the supplied Funica mobile UI reference. It includes a desktop storefront and a mobile shopping experience with bottom navigation.",
+      "homepage": "",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "2026-11-14T12:00:10Z",
+      "updated_at": "2026-11-14T11:59:09Z",
+      "created_at": "2026-11-14T11:55:59Z",
+      "topics": [],
+      "fork": false,
+      "archived": false,
+      "private": false
+    },
     {
       "id": 1454962586,
       "name": "Shivam-Singh-Living-Portfolio",
@@ -19,7 +37,7 @@
       "language": "JavaScript",
       "stargazers_count": 0,
       "forks_count": 0,
-      "pushed_at": "2026-11-13T11:06:11Z",
+      "pushed_at": "2026-11-14T10:32:30Z",
       "updated_at": "2026-11-12T08:22:40Z",
       "created_at": "2026-11-12T07:20:35Z",
       "topics": [],
